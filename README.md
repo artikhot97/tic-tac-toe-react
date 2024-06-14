@@ -1,5 +1,5 @@
 # tic-tac-toe-react
-This is basic tic-tac-toe game which is build in the react to pratice the react
+This simple tic tac toe game is integrated into React to help with React practice.
 
 Prequisite :
 - Node should have been installed; if not, kindly install it from https://nodejs.org/en/download/package-manager
